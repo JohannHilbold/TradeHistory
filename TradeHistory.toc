@@ -1,0 +1,5 @@
+## Interface: 11303
+## Title: Hello, World!
+## Notes: My first AddOn
+TradeHistory.lua
+TradeHistory.xml
